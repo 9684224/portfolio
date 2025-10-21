@@ -2,7 +2,7 @@
 
 ## Term 1 Projects
 
-### SpaceGame Project
+### Galactic Defender Project
 
 ![SpaceGame](https://github.com/9684224/portfolio/blob/main/images/SpaceGame.png?raw=true)
 
