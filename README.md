@@ -1,7 +1,7 @@
 # Hunter's Game Dev Portfolio
 
 ## Certificaiton
-
+![Game Dev Certification](https://github.com/9684224/portfolio/blob/main/images/Hunter%20Westover_Game%20Development%20Fundamentals%201_12182025.pdf)
 ### Term 1 Projects
 
 #### Galactic Defender Project
