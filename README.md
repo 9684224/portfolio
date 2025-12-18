@@ -37,3 +37,18 @@ Survive the asteroid storm, collect power-ups to stay alive, and shoot down as m
 *[Mac App](https://github.com/9684224/portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
 *[Linux Executable]()
 *[Source Code](https://github.com/9684224/portfolio/tree/main/src/SpaceGame)
+
+
+# Term 2 Projects
+
+## The Pit of Despair
+You were once a simple cube, drifting peacefully through a digital world… until the ground gave way. Now you’ve plummeted into The Pit of Despair, a molten labyrinth teeming with chaos. Lava pulses beneath your feet, shadows twist around jagged walls, and monstrous bosses rule each layer of this infernal prison. Your only goal: escape. Navigate treacherous terrain, dodge deadly traps, and battle corrupted cube-beasts and mechanical horrors. Each level is a test of reflexes, strategy, and sheer willpower. As you ascend, the challenges grow fiercer—and the secrets of the Pit begin to unravel.
+### My contribution
+My role making this game was that I was tasked with making the upward scrolling platform logic and making the second boss in the game whose name is Reil
+#### Pictures
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/reil.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/readme.md/TPOD%20Menu%20screen.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/god.png)
+![](https://github.com/9643339-sudo/GroupRepo/blob/main/images/lavar.png)
+##### Link to TPOD repository
+*[TPOD Game](https://github.com/9643339-sudo/GroupRepo/tree/main)
