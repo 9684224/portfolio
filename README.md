@@ -1,6 +1,6 @@
 # Hunter's Game Dev Portfolio
 
-##Certificaiton
+## Certificaiton
 
 ### Term 1 Projects
 
