@@ -1,8 +1,10 @@
 # Hunter's Game Dev Portfolio
 
-## Term 1 Projects
+##Certificaiton
 
-### Galactic Defender Project
+### Term 1 Projects
+
+#### Galactic Defender Project
 
 ![SpaceGame](https://github.com/9684224/portfolio/blob/main/images/SpaceGame.png?raw=true)
 
